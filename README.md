@@ -1,1 +1,1 @@
-# app_yew_example
+# Un pequeño juego que cree en Rust + Yew
